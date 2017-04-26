@@ -1,0 +1,4 @@
+# how to force obey the rule of repos.
+*.apk
+*.jar
+# should only these
